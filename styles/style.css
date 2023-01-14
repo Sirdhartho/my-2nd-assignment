@@ -1,3 +1,6 @@
+/*----------------
+ frist section
+ -----------------  */
 .frist-container{
     background: rgba(83, 151, 80, 0.153);
 }
@@ -44,4 +47,46 @@
     width: 950px;
     height: 420px;
     border-radius: 8px;
+}
+/* ----------------
+second section 
+------------------ */
+.second-container-info{
+    padding-top: 230px;
+    padding-left: 40px;
+}
+.second-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.second-container-imgs{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.second-container-img{
+    border-radius: 8px;
+    padding: 7px;
+}
+.one{
+    color: #727272;
+}
+.two{
+    color: #131313;
+}
+.three{
+    color: #FF900E;
+}
+.second-container-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+.second-container-button-text{
+    width: 180px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: #FF900E;
 }
