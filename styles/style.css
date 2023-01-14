@@ -52,7 +52,7 @@
 second section 
 ------------------ */
 .second-container-info{
-    padding-top: 230px;
+    padding-top: 85px;
     padding-left: 40px;
 }
 .second-container{
@@ -67,6 +67,8 @@ second section
 .second-container-img{
     border-radius: 8px;
     padding: 7px;
+    width: 200px;
+    height: 200px;
 }
 .one{
     color: #727272;
@@ -89,4 +91,25 @@ second section
     height: 64px;
     border-radius: 8px;
     background-color: #FF900E;
+}
+/* ----------------
+third section 
+------------------ */
+.third-container{
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+    padding-top: 50px;
+}
+.third-container-title{
+    background-color: skyblue;
+    width: 500px;
+    height: 100px;
+    gap: 10px;
+    padding: 10px;
+}
+
+.third-container-img{
+    width: 500px;
+    height: 720px;
 }
