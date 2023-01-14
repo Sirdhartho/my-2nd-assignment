@@ -1,0 +1,47 @@
+.frist-container{
+    background: rgba(83, 151, 80, 0.153);
+}
+.frist-container-nav{
+    display: flex;
+    justify-content: center;
+    column-gap: 500px;
+}
+.frist-container-html{
+    font-weight: 700;
+}
+
+.frist-container-list{
+    list-style: none;
+    display: flex;
+    column-gap: 45px;
+}
+.frist-container-second-html{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+}
+.frist-container-text{
+    text-align: center;
+    color: #727272;
+}
+.frist-container-button{
+    padding-left: 600px;
+    padding-top: 27px;
+}
+.frist-container-button-text{
+    width: 180px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: #FF900E;
+}
+.frist-container-imgs{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.frist-container-img{
+    width: 950px;
+    height: 420px;
+    border-radius: 8px;
+}
