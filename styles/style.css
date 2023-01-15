@@ -38,6 +38,9 @@
     border-radius: 8px;
     background-color: #FF900E;
 }
+.frist-container-button-text:hover{
+    background-color: blue;
+}
 .frist-container-imgs{
     text-align: center;
     padding-top: 30px;
@@ -92,6 +95,9 @@ second section
     border-radius: 8px;
     background-color: #FF900E;
 }
+.second-container-button-text:hover{
+    background-color: #dcc9c9;
+}
 /* ----------------
 third section 
 ------------------ */
@@ -125,6 +131,9 @@ third section
     border-radius: 8px;
 
 }
+.third-container-title:hover{
+    background-color: green;
+}
 .third-container-html-difrant{
     font-weight: 700;
     font-size: 45px;
@@ -156,6 +165,9 @@ third section
     margin-top: -135px;
     margin-left: 190px;
 }
+.third-container-button-main:hover{
+    background-color: rgb(246, 244, 245);
+}
 .third-container-button-style{
     font-weight: 700;
     font-size: 50px;
@@ -168,6 +180,9 @@ third section
     font-size: 15px;
     line-height: 15px;
     text-align: center;
+}
+.container-medil:hover{
+    background-color: #FF900E;
 }
 /*------------------- 
 forth section
@@ -186,6 +201,9 @@ forth section
     align-items: center;
     justify-content: center;
     border-radius: 8px;
+}
+.forth-container-info:hover{
+    background-color: #FF900E;
 }
 .forth-container-text{
     font-weight: 600;
@@ -247,4 +265,8 @@ lest section
     margin-top: 40px;
     color: #FFFFFF;  
     border-radius: 8px;
+}
+.lest-container-style:hover{
+    background-color: rgba(83, 151, 80, 0.153);
+    color: black;
 }
