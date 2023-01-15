@@ -143,3 +143,28 @@ third section
     width: 550px;
     height: 850px;
 }
+.third-container-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third-container-button-main{
+    width: 235px;
+    height: 140px;
+    border-radius: 8px;
+    background-color: #FF900E;
+    margin-top: -105px;
+}
+.third-container-button-style{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 65px;
+    text-align: center;
+    color: blue;
+}
+.third-container-button-style-next{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center;
+}
