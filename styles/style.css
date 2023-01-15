@@ -169,3 +169,35 @@ third section
     line-height: 15px;
     text-align: center;
 }
+/*------------------- 
+forth section
+--------------------- */
+.forth-container{
+    display: flex;
+    justify-content: space-evenly; 
+
+}
+.forth-container-info{
+    border: 2px solid green;
+    height: 205px;
+    width: 205px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+.forth-container-text{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #727272;
+}
+.forth-container-img{
+    margin-top: 22px;
+}
+.fortho-container-html{
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 15px;
+    color: blue
+}
