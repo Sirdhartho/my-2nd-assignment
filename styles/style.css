@@ -175,6 +175,7 @@ forth section
 .forth-container{
     display: flex;
     justify-content: space-evenly; 
+    padding-top: 42px;
 
 }
 .forth-container-info{
@@ -200,4 +201,24 @@ forth section
     font-size: 34px;
     line-height: 15px;
     color: blue
+}
+/* -------------------
+article section 
+------------------------ */
+.article-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 120px;
+}
+.article-container-html{
+    font-size: 40px;
+    color: rgb(6, 59, 6);
+}
+.article-container-text{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #727272;
 }
